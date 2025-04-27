@@ -1,2 +1,0 @@
-# MV
-My personal repository.
