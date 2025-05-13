@@ -1,5 +1,4 @@
 # Technical writing portfolio
-## About me
 Hello!
 
 Thank you for your interest and taking the time to visit my technical writing portfolio.
