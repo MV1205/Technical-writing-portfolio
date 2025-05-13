@@ -12,7 +12,6 @@ My writing samples include a process document, fequently asked questions (FAQ), 
 If you are interested, please check my [LinkedIn](https://www.linkedin.com/in/meganvalen/) profile to learn more about my qualifications.
 
 ## Site navigation
-* About me
 * Technical writing portfolio: This repository contains a small HTML and CSS website. There are no dependencies and there's nothing particularly fancy going on. Just a connection to Netflify, the website host.
 * Sample 1: Process document
 * Sample 2: FAQ
