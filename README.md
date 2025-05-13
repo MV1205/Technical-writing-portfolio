@@ -26,4 +26,4 @@ Check out the [live website](https://wtd-basic-portfolio.netlify.app/) to see wh
 [Email](meg.valenzuela@gmail.com) | [LinkedIn](https://www.linkedin.com/in/meganvalen/)
 
 ## License
-This is licensed under Mozilla Public License Version 2.0.
+This is licensed under Mozilla Public License Version 2.0. This website is built using code from this [GitHub repository](https://github.com/bobby-pancakes/basic-portfolio.git). 
