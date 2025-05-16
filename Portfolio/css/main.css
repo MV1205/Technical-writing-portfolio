@@ -8,10 +8,10 @@
 /* THEME
    ========================================================================== */
 :root {
-  --color-primary: #955183;
-  --color-primary-alpha: rgba(95, 51, 83, 0.85);
-  --color-primary-light: #e5d7e3;
-  --color-secondary: #475a92;
+  --color-primary: #da3458;
+  --color-primary-alpha: rgba(27, 63, 93, 0.85);
+  --color-primary-light: #d7f5fc;
+  --color-secondary: #0099e5;
   --color-text-primary: #333333;
   --color-text-inverse: #ffffff;
   --box-shadow-primary: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
