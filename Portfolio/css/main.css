@@ -257,7 +257,7 @@ button a:active {
 }
 
 .promoted-items {
-  display: flex;
+  
   align-content: center;
   flex-direction: column;
   list-style: none;
