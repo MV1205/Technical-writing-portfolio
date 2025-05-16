@@ -216,7 +216,7 @@ button a:active {
 }
 
 /* Alter styles for larger screens */
-@media (min-width: 1000px) {
+@media (min-width: 500px) {
   .card {
     flex-direction: row;
   }
