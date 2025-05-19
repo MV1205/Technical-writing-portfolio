@@ -7,7 +7,7 @@ I am a Technical Writer with a 10-year track record of crafting clear, concise d
 
 I can identify content gaps and maintain consistent, accessible information that aligns with organizational goals and elevates the end-user experience. I have experience working with mid to large global organizations, both as a lone writer managing projects and as a member of a technical writing team. My strengths include strong communication skills with subject matter experts, adaptability, and quick learning abilities. 
 
-My writing samples include a portfolio website and a section of work I am able to share from a previous employer.
+My writing samples include a portfolio website and a selection of work I am able to share from a previous employer.
 
 If you are interested, please check my [LinkedIn profile](https://www.linkedin.com/in/meganvalen/) to learn more about my qualifications.
 
