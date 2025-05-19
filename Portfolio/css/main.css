@@ -8,10 +8,10 @@
 /* THEME
    ========================================================================== */
 :root {
-  --color-primary: #da3458;
-  --color-primary-alpha: rgba(27, 63, 93, 0.85);
-  --color-primary-light: #d7f5fc;
-  --color-secondary: #0099e5;
+  --color-primary: #0099e5;
+  --color-primary-alpha: rgba(0, 129, 195, 0.85);
+  --color-primary-light: #ea493a;
+  --color-secondary: #ea493a;
   --color-text-primary: #333333;
   --color-text-inverse: #ffffff;
   --box-shadow-primary: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
@@ -30,8 +30,8 @@ body {
   line-height: 1.6;
   font-weight: 400;
   color: var(--color-text-primary);
-  background-color: #d7f5fc;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%231b3f5d' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+ background-color: #1b3f5d;
+ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%230081c3' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
 }
 
 body > .content {
@@ -165,7 +165,7 @@ button:hover {
 }
 
 button:hover a {
-  color: var(--color-text-primary);
+  color: var(--color-text-inverse);
   background-color: var(--color-primary-light);
 }
 
