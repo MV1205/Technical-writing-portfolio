@@ -1,5 +1,5 @@
 # License attributions
-This portfolio uses a mix of open source and Canva components. You can find the source code of their open source projects along with license information below. Also, I have included license information from Canva elements I used for the website design. I acknowledge and am grateful to these developers and designer for their contributions to open source and closed source.
+This portfolio uses a mix of open source and Canva components. You can find the source code of their open source projects along with license information below. Also, I have included license information from Canva elements I used for the website design. I acknowledge and am grateful to these developers and designers for their contributions to open source and closed source.
 
 ## Open source
 
