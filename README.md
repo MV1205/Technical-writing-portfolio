@@ -18,5 +18,5 @@ If you are interested, please check my [LinkedIn profile](https://www.linkedin.c
 ## How to reach me
 [Email](megan.valenzuela@proton.me) | [LinkedIn](https://www.linkedin.com/in/meganvalen/)
 
-## Attributions
-Refer to the [Attributions](https://github.com/MV1205/Technical-writing-portfolio/blob/main/ATTRIBUTIONS) page to see the fill list of open source elements used for this portfolio.
+## License
+All code from this repository is licensed under [Mozilla Public License Version 2.0](https://www.mozilla.org/en-US/MPL/2.0/) with source at [github.com/MV1205](https://github.com/MV1205/Technical-writing-portfolio). Refer to the [Attributions](https://github.com/MV1205/Technical-writing-portfolio/blob/main/ATTRIBUTIONS) page to see the fill list of open source elements used for this portfolio.
