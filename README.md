@@ -15,8 +15,5 @@ If you are interested, please check my [LinkedIn profile](https://www.linkedin.c
 * **[Portfolio website](https://github.com/MV1205/Technical-writing-portfolio/tree/main/Portfolio):** This folder contains a small HTML and CSS website. Check out the [live website](https://meganvalenzuela.com/) to see what this website looks like.
 * **[Sensys Networks samples](https://github.com/MV1205/Technical-writing-portfolio/tree/main/Sensys%20Networks%20examples):** This folder contains Sensys Networks documentation that I have worked on. The samples include a hardware and software datasheet, a quick start guide, an installation guide, and a configuration and user guide. 
 
-## How to reach me
-[Email](megan.valenzuela@proton.me) | [LinkedIn](https://www.linkedin.com/in/meganvalen/)
-
 ## License
 All code from this repository is licensed under [Mozilla Public License Version 2.0](https://www.mozilla.org/en-US/MPL/2.0/) with source at [github.com/MV1205](https://github.com/MV1205/Technical-writing-portfolio). Refer to the [Attributions](https://github.com/MV1205/Technical-writing-portfolio/blob/main/ATTRIBUTIONS) page to see the fill list of open source elements used for this portfolio.
