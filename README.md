@@ -18,5 +18,5 @@ If you are interested, please check my [LinkedIn profile](https://www.linkedin.c
 ## How to reach me
 [Email](megan.valenzuela@proton.me) | [LinkedIn](https://www.linkedin.com/in/meganvalen/)
 
-## License
-This is licensed under the Mozilla Public License Version 2.0. The portfolio website is built using code from this [GitHub repository](https://github.com/bobby-pancakes/basic-portfolio.git). 
+## Attributions
+Refer to the [Attributions](https://github.com/MV1205/Technical-writing-portfolio/blob/main/ATTRIBUTIONS) page to see the fill list of open source elements used for this portfolio.
