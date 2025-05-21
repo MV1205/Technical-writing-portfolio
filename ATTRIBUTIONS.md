@@ -1,5 +1,5 @@
-# Open source license attributions
-This portfolio uses a mix of open source and third party proprietary components. You can find the source code of their open source projects along with license information below. I acknowledge and am grateful to these developers and coders for their contributions to open source.
+# License attributions
+This portfolio uses a mix of open source and Canva components. You can find the source code of their open source projects along with license information below. Also, I have included license information from Canva elements I used for the website design. I acknowledge and am grateful to these developers and designer for their contributions to open source and closed source.
 
 ## Open source
 
@@ -7,7 +7,7 @@ This portfolio uses a mix of open source and third party proprietary components.
 
 * "Hero Patterns" by [Steve Schoger](https://x.com/steveschoger) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-## Third party proprietary elements
+## Canva graphics
 
 * "Company Information Text Effect in White Blue Style" by Canva Creative Studio is licensed under [Canva.com](https://www.canva.com/policies/content-license-agreement/)
 
